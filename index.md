@@ -15,3 +15,8 @@ Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. 
 + But he has a big heart, and 
 + would do anything for his freinds. 
 * He makes people feel special.
+
+## favourite quote
+> If you don’t like your destiny, don’t accept it. 
+> Instead have the courage to change it the way you want it to be
+    **Naruto Uzumaki**
